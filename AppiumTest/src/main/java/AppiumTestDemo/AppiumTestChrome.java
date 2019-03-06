@@ -61,19 +61,6 @@ Thread.sleep(5000);
 //Close the browser
 driver.quit();
 
-
-//Print the title
-System.out.println("Title "+driver.getTitle());
-
-//
-
-
-
-
-
-
-
-
 	
 }
 
